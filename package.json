@@ -2,6 +2,7 @@
   "name": "cl-mvc",
   "version": "1.0.0",
   "type": "module",
+  "author": "Hayden Liles",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
